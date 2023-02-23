@@ -1,0 +1,12 @@
+1	bwa-aln	E467
+2	bwa-aln	L163
+3	bwa-aln	M6
+4	bwa-aln	oimyakon
+5	variant-graph-all	E467
+6	variant-graph-all	L163
+7	variant-graph-all	M6
+8	variant-graph-all	oimyakon
+9	variant-graph-mammoth-only	E467
+10	variant-graph-mammoth-only	L163
+11	variant-graph-mammoth-only	M6
+12	variant-graph-mammoth-only	oimyakon

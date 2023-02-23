@@ -21,8 +21,8 @@ import gzip
 #import collections
 import pandas as pd
 
-#reference_file = sys.argv[1]
-#index_file = sys.argv[2]
+reference_file = sys.argv[1]
+index_file = sys.argv[2]
 
 def read_ref(reference_file):
 	with gzip.open(reference_file, "rt") as rf:
@@ -66,7 +66,7 @@ def similarity_rate_simpler(reference_file, index_file):
 		chr_list.append('chr'+str(i))
 	chr_list.append('chrX')
 
-	#open each chromosome in the
+	#open each chromosome 
 	for chr in chr_list: #iterate through each chromosome
 		mpfile = "merged.{chrname}.mpile.gz".format(chrname = chr)
 		#build dictionary for distribution of similarity rate
@@ -275,9 +275,7 @@ def table_data_heterozygous_rate_count(file):
 #table_data_heterozygous_rate_count('compare_rf_separate_hetero_distr_10bins_2nd_round')
 table_data_heterozygous_rate_count('compare_rf_sep_hetero_distr_10bins_deeper_than_16')
 
-"""
-def hetero_distr_random():
-"""
+
 
 """
 def write_to_file_all_rates(all_sim_rate_dict):

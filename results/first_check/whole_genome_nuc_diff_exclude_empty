@@ -1,0 +1,12 @@
+bwa-aln_vs_vg-all_E467	0.00869196980341689
+bwa-aln_vs_vg-mammoth_E467	0.009511563613498898
+vg-all_vs_vg-mammoth_E467	0.0037023490113141672
+bwa-aln_vs_vg-all_L163	0.009374221484030098
+bwa-aln_vs_vg-mammoth_L163	0.010355842331739928
+vg-all_vs_vg-mammoth_L163	0.003145653343179648
+bwa-aln_vs_vg-all_M6	0.008306835748369696
+bwa-aln_vs_vg-mammoth_M6	0.00907825136365638
+vg-all_vs_vg-mammoth_M6	0.003042500236450642
+bwa-aln_vs_vg-all_oimyakon	0.006262920184979263
+bwa-aln_vs_vg-mammoth_oimyakon	0.006679295128723152
+vg-all_vs_vg-mammoth_oimyakon	0.002726425291714654

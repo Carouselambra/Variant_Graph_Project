@@ -1,0 +1,12 @@
+bwa-aln_E467	0.064
+bwa-aln_L163	0.06
+bwa-aln_M6	0.067
+bwa-aln_oimyakon	0.095
+variant-graph-all_E467	0.075
+variant-graph-all_L163	0.065
+variant-graph-all_M6	0.076
+variant-graph-all_oimyakon	0.122
+variant-graph-mammoth-only_E467	0.073
+variant-graph-mammoth-only_L163	0.063
+variant-graph-mammoth-only_M6	0.074
+variant-graph-mammoth-only_oimyakon	0.119
